@@ -14,6 +14,44 @@ I love to contribute to open source projects, I pass by or use myself.
 
 ---
 
+### 📊 Stats
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=raldone01&show_icons=true&theme=dark&show=prs_merged"
+    alt="GitHub Stats"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=raldone01&show_icons=true&show=prs_merged"
+    alt="GitHub Stats"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=raldone01&show_icons=true&show=prs_merged"
+    alt="GitHub Stats"
+  />
+</picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raldone01&theme=dark"
+    alt="Top Languages"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=raldone01"
+    alt="Top Languages"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=raldone01"
+    alt="Top Languages"
+  />
+</picture>
+
+---
+
 ### 😄 Fun Projects
 
 * **[Comment Arguments in Python](https://github.com/raldone01/python-lessons-py/blob/main/lesson_0_comments.ipynb)**
